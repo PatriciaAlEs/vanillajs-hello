@@ -1,4 +1,3 @@
-import "bootstrap";
 import "./style.css";
 
 let who = ["The dog", "My grandma", "The mailman", "My bird"];
